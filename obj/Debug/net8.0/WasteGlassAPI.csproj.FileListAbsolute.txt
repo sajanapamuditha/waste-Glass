@@ -113,6 +113,7 @@ D:\wasteglass_FIXED (1)\WasteGlassAPI\obj\Debug\net8.0\WasteGlassAPI.AssemblyInf
 D:\wasteglass_FIXED (1)\WasteGlassAPI\obj\Debug\net8.0\WasteGlassAPI.csproj.CoreCompileInputs.cache
 D:\wasteglass_FIXED (1)\WasteGlassAPI\obj\Debug\net8.0\WasteGlassAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\wasteglass_FIXED (1)\WasteGlassAPI\obj\Debug\net8.0\WasteGlassAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\wasteglass_FIXED (1)\WasteGlassAPI\obj\Debug\net8.0\WasteGlassAPI.sourcelink.json
 D:\wasteglass_FIXED (1)\WasteGlassAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\wasteglass_FIXED (1)\WasteGlassAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\wasteglass_FIXED (1)\WasteGlassAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
