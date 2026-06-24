@@ -15,7 +15,7 @@ public class ResetController : ControllerBase
         _context = context;
     }
 
-    [HttpPost("reset")]
+   [HttpGet("reset")]
     public async Task<IActionResult> Reset()
     {
         // Delete all collections
