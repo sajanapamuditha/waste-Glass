@@ -45,3 +45,4 @@ PATCH /api/suppliers/2/reset
 ... (repeat for 3-6)
 ```
 Or clear the `Collections` table and reset `Status` in the SQLite DB directly.
+Railway rebuild trigger
